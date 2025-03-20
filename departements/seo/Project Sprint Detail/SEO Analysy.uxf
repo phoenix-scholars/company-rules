@@ -1,0 +1,5 @@
+<diagram program="umletino" version="15.1"><zoom_level>8</zoom_level><element><id>UMLClass</id><coordinates><x>24</x><y>288</y><w>536</w><h>224</h></coordinates><panel_attributes>Manager
+bg=red
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>24</x><y>528</y><w>536</w><h>152</h></coordinates><panel_attributes>Technical
+bg=green</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>568</x><y>256</y><w>208</w><h>480</h></coordinates><panel_attributes>Seo Analyser
+bg=blue</panel_attributes><additional_attributes></additional_attributes></element></diagram>
